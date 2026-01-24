@@ -1,27 +1,30 @@
 # Jose M Hernandez Jr. — BitwiseSynapse
 
-**United States Navy Veteran** • B.S. Computer Engineering @ Cal Poly Pomona → M.S. Medical Device & Diagnostics Engineering @ USC  
-Focused on embedded systems, biosignal processing, and hardware design.
+**United States Navy Veteran** • B.S. Computer Engineering (Cal Poly Pomona) • M.S. Medical Device & Diagnostics Engineering (USC)  
+Focused on prototyping and hardware design.
+
+
 
 ---
 
-## 🔧 Skills & Tools
-- **Languages:** C, C++, MATLAB, Verilog  
-- **Hardware Platforms:** STM32, AVR, ARM Cortex-M, Arduino, Raspberry Pi  
-- **Software & Tools:** FreeCAD, FreeRTOS, Git, Altium, MATLAB, SIMULINK, PSpice  
-- **Specialties:** Digital logic, PCB design, medical device prototyping
+## Skills
+- PCB Design (Altium): schematic capture, layout, revision control, documentation
+- Analog/Digital: mixed-signal design, filtering, ADC/DAC interfacing, digital logic
+- Bring-up & Testing: bench testing (oscilloscope/DMM), troubleshooting, characterization
+- Software (as needed): C/C++
+- Tools: Multisim, PSpice, Verilog, MATLAB
 
 ---
 
-## 📌 Featured Projects
-- **[ECG Front-End Design](#)** — Low-noise amplifier and filter for ECG acquisition.  
-- *(More projects will be added soon.)*
+## Featured Projects
+Building out a project archive now (embedded systems + hardware prototypes).  
+Updates coming soon.
+
 
 ---
 
-## 📫 Connect
+## Connect
 - **Academic Email:** josemh@usc.edu  
-- **Personal Email:** jzod94@gmail.com  
 - **LinkedIn:** [linkedin.com/in/josehernandez-ce](https://www.linkedin.com/in/josehernandez-ce/)
 
 ---
