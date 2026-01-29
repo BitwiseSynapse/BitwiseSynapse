@@ -16,9 +16,9 @@ Focused on prototyping and hardware design.
 
 ---
 
-## Featured Projects
-Building out a project archive now (embedded systems + hardware prototypes).  
-Updates coming soon.
+## Projects
+- **AC DC 5V Power Supply** — transformer + bridge rectifier + smoothing + zener/BJT regulation, with scope validation  
+  https://github.com/<BitwiseSynapse>/<acdc-5v-power-supply>
 
 
 ---
