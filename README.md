@@ -18,7 +18,7 @@ Focused on prototyping and hardware design.
 
 ## Projects
 - **[AC–DC 5V Power Supply](https://github.com/BitwiseSynapse/acdc-5v-power-supply)** — transformer + bridge rectifier + smoothing + zener/BJT regulation, with scope validation  
-- [Solar Li-Ion Charger](https://github.com/BitwiseSynapse/solar-li-ion-charger) — solar input + regulation + charge control/protection, with report documentation
+- **[Solar Li-Ion Charger](https://github.com/BitwiseSynapse/solar-li-ion-charger)** — solar input + regulation + charge control/protection, with report documentation
 
 ---
 
