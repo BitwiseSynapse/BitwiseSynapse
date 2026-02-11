@@ -11,6 +11,7 @@ Focused on prototyping and hardware design.
 - PCB Design (Altium): schematic capture, layout, revision control, documentation
 - Analog/Digital: mixed-signal design, filtering, ADC/DAC interfacing, digital logic
 - Bring-up & Testing: bench testing (oscilloscope/DMM), troubleshooting, characterization
+- Sensor integration
 - Software (as needed): C/C++
 - Tools: Multisim, PSpice, Verilog, MATLAB
 
