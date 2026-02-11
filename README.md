@@ -18,6 +18,7 @@ Focused on prototyping and hardware design.
 ---
 
 ## Projects
+- **[Dual-Heated Tissue Clamp (Prototype)](https://github.com/BitwiseSynapse/dual-heated-tissue-clamp)** — temperature-controlled thermal sealing clamp; opto-isolated MOSFET heater drive + MAX31856 thermocouple feedback; Altium schematics + ON/OFF hysteresis control on ESP32
 - **[DriftBand — Sleep Apnea Monitor (Prototype)](https://github.com/BitwiseSynapse/driftband-sleep-apnea-monitor/tree/main)** — wearable chest-strap logging IMU posture/motion + SpO₂/HR (MAX30102) on ESP32; docs/BOM/testing + FDA predicate & ISO/IEC standards notes
 - **[BANSHEE UAV — Power Allocation System (PAS)](https://github.com/BitwiseSynapse/BANSHEE-UAV-Power-Allocation-System-PAS-)** — multi-source MOSFET power switching + monitoring; docs + schematics + test evidence
 - **[Solar Li-Ion Charger](https://github.com/BitwiseSynapse/solar-li-ion-charger)** — solar input + regulation + charge control/protection, with report documentation
