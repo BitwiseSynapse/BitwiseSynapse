@@ -19,6 +19,7 @@ Focused on prototyping and hardware design.
 ---
 
 ## Projects
+- **[THEIA Haptic Navigation Belt (Prototype)](https://github.com/BitwiseSynapse/theia-haptic-navigation-belt)**: belt-worn wearable augmenting the white cane for blind and low-vision users; six ToF/LiDAR sensors through a TCA9548A I²C mux, eight-channel haptic drive, PiSugar S+ power on ESP32-S3; sole hardware developer on a six-person capstone team
 - **[Dual-Heated Tissue Clamp (Prototype)](https://github.com/BitwiseSynapse/dual-heated-tissue-clamp)**: temperature-controlled thermal sealing clamp; opto-isolated MOSFET heater drive, MAX31856 thermocouple feedback, Altium schematics, ON/OFF hysteresis control on ESP32
 - **[DriftBand Sleep Apnea Monitor (Prototype)](https://github.com/BitwiseSynapse/driftband-sleep-apnea-monitor)**: wearable chest strap logging IMU posture/motion and SpO₂/HR (MAX30102) on ESP32; docs, BOM, testing, FDA predicate and ISO/IEC standards notes
 - **[BANSHEE UAV Power Allocation System (PAS)](https://github.com/BitwiseSynapse/banshee-uav-power-allocation-system)**: multi-source MOSFET power switching and monitoring; docs, schematics, test evidence
